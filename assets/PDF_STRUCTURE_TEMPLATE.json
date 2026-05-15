@@ -1,0 +1,181 @@
+{
+  "document_meta": {
+    "title": "AWS Implementation Manager Candidate Assessment & Interview Preparation",
+    "purpose": "Comprehensive candidate evaluation, skills gap analysis, and interview preparation guide",
+    "target_audience": [
+      "Candidate (for interview prep)",
+      "Hiring Manager (for evaluation)",
+      "Internal assessment"
+    ],
+    "recommended_page_count": "18-24 pages",
+    "estimated_word_count": "12000-18000 words"
+  },
+  "sections": [
+    {
+      "section_number": 1,
+      "section_title": "EXECUTIVE SUMMARY: Your Candidacy Assessment",
+      "purpose": "Immediate overview of fit, reasoning, alternatives, and action plan",
+      "content_type": "narrative + table",
+      "subsections": [
+        {
+          "title": "1.1 Direct Answer (Bottom Line Up Front)",
+          "content_type": "executive narrative",
+          "length": "150-250 words",
+          "includes": [
+            "Probability of success %",
+            "Primary strength",
+            "Primary gap",
+            "Hiring manager concern",
+            "Counter-argument"
+          ]
+        },
+        {
+          "title": "1.2 How I Got There (Step-by-Step Reasoning)",
+          "content_type": "detailed analysis + tables",
+          "length": "400-600 words"
+        },
+        {
+          "title": "1.3 Alternative Perspectives",
+          "content_type": "narrative with multiple angles",
+          "length": "400-500 words"
+        },
+        {
+          "title": "1.4 Practical Action Plan",
+          "content_type": "actionable steps + timeline",
+          "length": "300-400 words"
+        },
+        {
+          "title": "1.5 FINAL ASSESSMENT",
+          "content_type": "summary narrative",
+          "length": "150-200 words"
+        }
+      ],
+      "page_break_after": true
+    },
+    {
+      "section_number": 2,
+      "section_title": "Top 10 Required Skills/Competencies (Ranked by Importance)",
+      "purpose": "Extract and rank critical skills from JD",
+      "content_type": "narrative + ranking table",
+      "length": "800-1000 words",
+      "page_break_after": true
+    },
+    {
+      "section_number": 3,
+      "section_title": "Resume-to-JD Alignment Assessment",
+      "purpose": "Match candidate against required skills with evidence",
+      "content_type": "detailed comparison matrix",
+      "table_format": "Requirement | Match Level | Gap/Evidence | Timeline",
+      "table_rows": 10,
+      "page_break_after": true
+    },
+    {
+      "section_number": 4,
+      "section_title": "Critical Gaps & Strategic Positioning",
+      "purpose": "Deep analysis of vulnerabilities and mitigation",
+      "content_type": "narrative + risk mitigation",
+      "subsections": [
+        {
+          "title": "4.1 Red Flags",
+          "length": "300-400 words"
+        },
+        {
+          "title": "4.2 Risk Mitigation",
+          "length": "800-1200 words",
+          "num_risks": "3-5"
+        },
+        {
+          "title": "4.3 STRENGTHS: Competitive Advantage",
+          "length": "300-400 words"
+        }
+      ],
+      "page_break_after": true
+    },
+    {
+      "section_number": 5,
+      "section_title": "Amazon Leadership Principles & Interview Preparation",
+      "purpose": "Map principles to role; provide 10 STAR questions with answers",
+      "content_type": "narrative + Q&A",
+      "num_questions": 10,
+      "subsections": [
+        {
+          "title": "5.1 Introduction",
+          "length": "150-200 words"
+        },
+        {
+          "title": "5.2-5.11 Interview Questions 1-10",
+          "content_type": "STAR format",
+          "structure": "Question | Leadership Principles | STAR Answer | Why This Works",
+          "length_per_answer": "500-800 words",
+          "star_sections": [
+            "Situation",
+            "Task",
+            "Action",
+            "Result",
+            "Why This Answer Works"
+          ]
+        }
+      ],
+      "page_break_after": true
+    },
+    {
+      "section_number": 6,
+      "section_title": "Strategic Recommendations & Action Plan",
+      "purpose": "Pre-interview prep, interview strategy, next steps",
+      "content_type": "actionable guidance + timeline",
+      "subsections": [
+        {
+          "title": "6.1 Overall Assessment",
+          "length": "300-400 words"
+        },
+        {
+          "title": "6.2 Pre-Interview Preparation",
+          "structure": "Tier 1: Critical | Tier 2: High Value | Tier 3: Nice to Have",
+          "tier1_hours": "20-25",
+          "tier2_hours": "15-20",
+          "tier3_hours": "5-10"
+        },
+        {
+          "title": "6.3 Interview Day Strategy",
+          "subsections": [
+            "Opening",
+            "Middle",
+            "Ending"
+          ]
+        }
+      ],
+      "page_break_after": true
+    },
+    {
+      "section_number": 7,
+      "section_title": "Document Footer & Reference Information",
+      "purpose": "Meta information and closing",
+      "content_type": "reference metadata",
+      "includes": [
+        "Role title",
+        "Job ID",
+        "Candidate name",
+        "Prepared date",
+        "Word count",
+        "Confidentiality notice"
+      ]
+    }
+  ],
+  "formatting_guidelines": {
+    "headings": {
+      "document_title": "28pt, bold, centered, AWS blue",
+      "section_title": "18pt, bold, left-aligned",
+      "subsection_title": "14pt, bold, left-aligned"
+    },
+    "body_text": {
+      "font": "Calibri",
+      "size": "11pt",
+      "line_spacing": "1.15"
+    },
+    "tables": {
+      "header_background": "AWS blue",
+      "header_text": "white, bold",
+      "row_alt_background": "light gray"
+    }
+  }
+}

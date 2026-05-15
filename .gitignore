@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+.vs/
+.vscode/
+
+# IDE
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+
+# Node/npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# OS specific
+.env.local
+.env.*.local
+
+# Large files (keep PDFs for reference, but exclude duplicates)
+*.zip
+!assets/files.zip
+
+# Cache files
+.cache/
+*.cache
